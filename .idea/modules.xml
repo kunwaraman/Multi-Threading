@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DeadLock09/DeadLock09.iml" filepath="$PROJECT_DIR$/DeadLock09/DeadLock09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EgMultiThreading.iml" filepath="$PROJECT_DIR$/.idea/EgMultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Executors12/Executors12.iml" filepath="$PROJECT_DIR$/Executors12/Executors12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FairnessOfLock07/FairnessOfLock07.iml" filepath="$PROJECT_DIR$/FairnessOfLock07/FairnessOfLock07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpression11/LambdaExpression11.iml" filepath="$PROJECT_DIR$/LambdaExpression11/LambdaExpression11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Locking06/Locking06.iml" filepath="$PROJECT_DIR$/Locking06/Locking06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiTHread01/MultiTHread01.iml" filepath="$PROJECT_DIR$/MultiTHread01/MultiTHread01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadWriteLocks08/ReadWriteLocks08.iml" filepath="$PROJECT_DIR$/ReadWriteLocks08/ReadWriteLocks08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Synchronization05/Synchronization05.iml" filepath="$PROJECT_DIR$/Synchronization05/Synchronization05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadCommunication10/ThreadCommunication10.iml" filepath="$PROJECT_DIR$/ThreadCommunication10/ThreadCommunication10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadLifeCycle02/ThreadLifeCycle02.iml" filepath="$PROJECT_DIR$/ThreadLifeCycle02/ThreadLifeCycle02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadSafety10/ThreadSafety10.iml" filepath="$PROJECT_DIR$/ThreadSafety10/ThreadSafety10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadsMethods04/ThreadsMethods04.iml" filepath="$PROJECT_DIR$/ThreadsMethods04/ThreadsMethods04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whenusethandrunnable03/whenusethandrunnable03.iml" filepath="$PROJECT_DIR$/whenusethandrunnable03/whenusethandrunnable03.iml" />
+    </modules>
+  </component>
+</project>
